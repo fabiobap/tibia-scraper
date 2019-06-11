@@ -1,4 +1,4 @@
-This a boss/server scraper for tibia.com using laravel 5.8.
+This is a boss/server scraper for tibia.com using laravel 5.8.
 
 The code is gonna retrieve all servers names and bosses sightings automatically.
 
